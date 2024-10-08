@@ -1,0 +1,9 @@
+x = 2.0, y = 0.0, res = True
+x = 5.5, y = 5.0, res = True
+x = 21.0, y = 4.0, res = False
+x = -2.0, y = -1.0, res = True
+x = -3.0, y = -3.0, res = False
+x = -1.5, y = -1.5, res = True
+x = -1.5, y = -19.0, res = False
+x = 2.05, y = 0.5, res = True
+x = 1.0, y = -1.0, res = False
